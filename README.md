@@ -10,8 +10,3 @@ i learnt  how to call an API, and how to display API data using the map on our p
 
 We have a search input form too, where users can search any movie name, and based on that query we show them the results the best part is we use debounce on our website, which helps API to hit once only when it is required to know more about the debounce, I highly recommend you to watch the video.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
